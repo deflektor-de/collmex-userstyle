@@ -1,6 +1,8 @@
 # collmex-userstyle
 
-This custom Stylesheet styles the german inventory management and accounting software for being less ugly and taking more advantage of larger sceens.
+This custom stylesheet styles the german inventory management and accounting software for being less ugly and taking more advantage of larger sceens.
+
+To apply it, you have to use a browser-extension.
 
 | Browser | Extension | URL |
 | --- | --- | --- |
