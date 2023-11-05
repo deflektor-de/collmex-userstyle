@@ -8,4 +8,5 @@ To apply it, you have to use a browser-extension.
 | --- | --- | --- |
 | Firefox | Stylus | https://addons.mozilla.org/de/firefox/addon/styl-us/
 
-![Screenshot of modified main screen](https://myoctocat.com/Css_Screen-5.png)
+
+![Screenshot of modified main screen](collmex_CustomCss_Screen-5.png)
