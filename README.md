@@ -7,3 +7,5 @@ To apply it, you have to use a browser-extension.
 | Browser | Extension | URL |
 | --- | --- | --- |
 | Firefox | Stylus | https://addons.mozilla.org/de/firefox/addon/styl-us/
+
+![Screenshot of modified main screen](https://myoctocat.com/Css_Screen-5.png)
